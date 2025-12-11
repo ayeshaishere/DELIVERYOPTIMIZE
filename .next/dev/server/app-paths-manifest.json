@@ -1,0 +1,5 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/solvers/simplex/route": "app/api/solvers/simplex/route.js",
+  "/page": "app/page.js"
+}

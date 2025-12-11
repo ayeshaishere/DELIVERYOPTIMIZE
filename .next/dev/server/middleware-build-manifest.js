@@ -1,0 +1,26 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/24b95_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d875c3ad._.js",
+    "static/chunks/24b95_next_dist_compiled_react-dom_fbfa4a46._.js",
+    "static/chunks/24b95_next_dist_compiled_react-server-dom-turbopack_b5816626._.js",
+    "static/chunks/24b95_next_dist_compiled_next-devtools_index_ee8a937b.js",
+    "static/chunks/24b95_next_dist_compiled_fe967eb8._.js",
+    "static/chunks/24b95_next_dist_client_698d5ee1._.js",
+    "static/chunks/24b95_next_dist_354ffeea._.js",
+    "static/chunks/24b95_@swc_helpers_cjs_ad803808._.js",
+    "static/chunks/Videos_foodapp_a0ff3932._.js",
+    "static/chunks/turbopack-Videos_foodapp_bfab5b9c._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];
